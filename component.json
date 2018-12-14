@@ -1,6 +1,6 @@
 {
   "title": "Vinay Petstore",
-  "description": "elastic.io component for the Petstore API",
+  "description": "Vinay Petstore component for the Petstore API",
   "docsUrl": "https://github.com/elasticio/petstore-component-nodejs",
   "credentials": {
     "fields": {
@@ -17,6 +17,7 @@
       "main": "./lib/triggers/getPetsByStatusWithGenerators.js",
       "type": "polling",
       "title": "Get Pets By Status With Generators",
+      "description":"Get Pets By Status",
       "fields": {
         "status": {
           "label": "Pet Status",
