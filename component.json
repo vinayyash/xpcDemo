@@ -1,6 +1,6 @@
 {
-  "title": "Vinay Petstore",
-  "description": "Vinay Petstore component for the Petstore API",
+  "title": "VKS Petstore",
+  "description": "VKS Petstore component for the Petstore API",
   "docsUrl": "https://github.com/elasticio/petstore-component-nodejs",
   "credentials": {
     "fields": {
